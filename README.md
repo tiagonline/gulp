@@ -1,1 +1,1 @@
-# Projeto de Testes em Gulp e Grunt.
+# Projeto de Testes em Gulp.
